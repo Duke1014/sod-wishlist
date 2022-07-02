@@ -1,5 +1,5 @@
 {
-    "name": "SoD Wishlist",
+    "name": "SoD-Wishlist",
     "description": "Create wishlists for your Shards of Dalaya characters",
     "engines": {
       "node": "16.x"
